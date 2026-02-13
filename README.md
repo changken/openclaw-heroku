@@ -50,8 +50,8 @@ Internet
 ### Step 2: Clone 專案
 
 ```bash
-git clone <this-repo-url>
-cd openclaw
+git clone git@github.com:changken/openclaw-heroku.git
+cd openclaw-heroku
 ```
 
 ### Step 3: 設定環境變數
